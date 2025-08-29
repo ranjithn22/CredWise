@@ -40,24 +40,3 @@ Frontend: Razor Views (HTML, CSS, JavaScript)
 
 Configuration: appsettings.json for DB & environment configs
 
-⚙️ Installation & Setup
-
-1) Clone the repository
-
-git clone https://github.com/YOUR-USERNAME/CredWise.git
-cd CredWise
-
-
-2) Restore dependencies
-
-dotnet restore
-
-
-3) Update database (apply migrations)
-
-dotnet ef database update
-
-
-4) Run the application
-
-dotnet run
